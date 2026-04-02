@@ -1,7 +1,5 @@
 # Student and Faculty Technology Purchase Pattern Analysis
 Applies the Apriori algorithm to transactional computer retail data to discover association rules between university customer demographics and product purchases. Investigates the top ten rules for negative patterns.
-# Dataset
-
 # Requirements
 - Python 3
 - pandas
