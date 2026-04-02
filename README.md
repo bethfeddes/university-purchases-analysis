@@ -6,6 +6,7 @@ Applies the Apriori algorithm to transactional computer retail data to discover 
 - Python 3
 - pandas
 - mlxtend
+- computer_trans.csv (found in the repo)
 # What it Does
 - Bins customer age into decade ranges and one-hot encodes occupation
 - Creates binary columns for each product in the Buys field
